@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/article-preview-component](https://www.frontendmentor.io/solutions/article-preview-component)
+- Solution URL: [frontendmentor.io/solutions/article-preview-component](https://www.frontendmentor.io/solutions/article-preview-component-YZMpfA966s)
 - Live Site URL: [abulhashim.github.io/Article-Preview-Component](https://abulhashim.github.io/Article-Preview-Component/)
 
 ## My process
